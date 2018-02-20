@@ -1,4 +1,4 @@
-# ofxIrrLicht
+# ofxIrrlicht
 ### s373.net/x 2017
 
 
@@ -20,7 +20,7 @@ Addon follows MIT licensing.
 
 ```
 
-
+![ofxIrrlicht](https://github.com/s373/ofxIrrlicht/blob/master/ofxIrrlicht.jpg)
 
 
 ```
