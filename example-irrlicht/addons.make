@@ -1,1 +1,1 @@
-ofxIrrlicht-osx012
+ofxIrrlicht
